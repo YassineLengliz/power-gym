@@ -13,6 +13,15 @@
       ]
     },
     {
+      "source": "/((?!assets/|favicon.ico|favicon-256.png|api/).*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        }
+      ]
+    },
+    {
       "source": "/assets/(.*)",
       "headers": [
         {
