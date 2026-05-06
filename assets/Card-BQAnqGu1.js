@@ -1,0 +1,1 @@
+import{j as r,a as e}from"./index-C9XpOvGW.js";function o({className:s,elevated:a=!1,...p}){return r.jsx("div",{className:e("glass-panel rounded-[28px] p-5 sm:p-6",a&&"shadow-[0_20px_70px_rgba(0,0,0,0.35)]",s),...p})}export{o as C};
