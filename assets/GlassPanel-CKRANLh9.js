@@ -1,1 +1,1 @@
-import{j as s,a as e}from"./index-C9XpOvGW.js";function t({className:r,...a}){return s.jsx("div",{className:e("rounded-2xl border border-white/10 bg-white/[0.04] shadow-[0_0_40px_rgba(220,38,38,0.10)] backdrop-blur-xl",r),...a})}export{t as G};
+import{j as s,a as e}from"./index-PowerGymKelibia-bg-v2.js";function t({className:r,...a}){return s.jsx("div",{className:e("rounded-2xl border border-white/10 bg-white/[0.04] shadow-[0_0_40px_rgba(220,38,38,0.10)] backdrop-blur-xl",r),...a})}export{t as G};
