@@ -19,7 +19,16 @@
       ]
     },
     {
-      "source": "/(favicon.ico|favicon-256.png|.*\\.png)",
+      "source": "/favicon.ico",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/favicon-256.png",
       "headers": [
         {
           "key": "Cache-Control",
