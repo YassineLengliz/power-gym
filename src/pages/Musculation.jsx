@@ -1,7 +1,7 @@
 import { ArrowRight, MessageCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import coachesImage from '../../assets/coaches.png';
-import musculationHero from '../../assets/musculation.png';
+import coachesImage from '../assets/coaches.png';
+import musculationHero from '../assets/musculation.png';
 import SectionTitle from '../components/SectionTitle.jsx';
 import Seo from '../components/Seo.jsx';
 import { staff } from '../data/staff.js';

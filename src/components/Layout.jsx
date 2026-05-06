@@ -1,7 +1,7 @@
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { Link, NavLink, Outlet } from 'react-router-dom';
-import logo from '../../assets/logo-Dr6vfgn4.png';
+import logo from '../assets/logo-Dr6vfgn4.png';
 
 const navItems = [
   ['/', 'Accueil'],

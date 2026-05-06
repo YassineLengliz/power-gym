@@ -1,13 +1,13 @@
-import arnold from '../../assets/arnold-GHqPgo-N.PNG';
-import bodypump from '../../assets/wall upper-Bue5YkZM.PNG';
-import striking from '../../assets/striking-B7se1NDy.png';
-import bikes from '../../assets/bycicles-DM82yFfM.PNG';
-import kids from '../../assets/kickboxingkids-dm-DCS8U.png';
-import pilates from '../../assets/pilatesflow-CsqN8_tC.PNG';
-import kimono from '../../assets/kiomi-C2zMKkF4.png';
-import fightTeam from '../../assets/fightteam-DFBTKeBx.png';
-import judoKids from '../../assets/Judo_Jiu-jitsu Kids-CTBdH6Xg.png';
-import abdo from '../../assets/abdo-DbXVVM9N.png';
+import arnold from '../assets/arnold-GHqPgo-N.PNG';
+import bodypump from '../assets/wall upper-Bue5YkZM.PNG';
+import striking from '../assets/striking-B7se1NDy.png';
+import bikes from '../assets/bycicles-DM82yFfM.PNG';
+import kids from '../assets/kickboxingkids-dm-DCS8U.png';
+import pilates from '../assets/pilatesflow-CsqN8_tC.PNG';
+import kimono from '../assets/kiomi-C2zMKkF4.png';
+import fightTeam from '../assets/fightteam-DFBTKeBx.png';
+import judoKids from '../assets/Judo_Jiu-jitsu Kids-CTBdH6Xg.png';
+import abdo from '../assets/abdo-DbXVVM9N.png';
 
 export const activities = [
   {

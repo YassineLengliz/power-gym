@@ -1,6 +1,6 @@
 import { ArrowRight, Clock, ShieldCheck, Sparkles } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import background from '../../assets/background.png';
+import background from '../assets/background.png';
 import ActivityCard from '../components/ActivityCard.jsx';
 import SectionTitle from '../components/SectionTitle.jsx';
 import Seo from '../components/Seo.jsx';
